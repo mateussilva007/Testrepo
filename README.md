@@ -1,2 +1,2 @@
-# Repositório de exemplo-
-isso é uma adição ao txt para tst
+# Repositório de exemplo
+#Isso é uma adição ao texto para teste
